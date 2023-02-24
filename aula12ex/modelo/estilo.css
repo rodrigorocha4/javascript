@@ -27,3 +27,17 @@ footer{
     font-family: italic;
 
 }
+
+div {
+   font-size: 1.2em;
+   text-align: center;
+   margin: 10px;
+}
+
+div#msg{
+    margin: 10px;
+}
+
+div#imagem{
+    border-radius: 50px;
+}
